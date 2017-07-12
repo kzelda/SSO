@@ -21,4 +21,6 @@ To be precise, OAuth is not strictly an authentication scheme but an authorizati
 
 
 # Links:
+<a href="http://arunendapally.com/post/implementation-of-single-sign-on-(sso)-in-asp.net-mvc">Implementation of Single Sign On (SSO) in ASP.NET MVC</a>
 <a href="https://msdn.microsoft.com/en-us/library/eb0zx8fc.aspx">Forms Authentication Across Applications</a>
+
