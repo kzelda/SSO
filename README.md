@@ -18,3 +18,7 @@ As different applications and resources support different authentication mechani
 Other shared authentication schemes include OAuth, OpenID, OpenID Connect and Facebook Connect. However, these authentication schemes require the user to enter their login credentials each time they access a different site or application so they are not to be confused with SSO.
 
 To be precise, OAuth is not strictly an authentication scheme but an authorization protocol: it provides a way for the users to grant access on their own behalf to other websites or applications using some access keys. The main purpose of the protocol is to exchange the access credentials required for the authentication and not the authentication itself.
+
+
+# Links:
+<a href="https://msdn.microsoft.com/en-us/library/eb0zx8fc.aspx">Forms Authentication Across Applications</a>
